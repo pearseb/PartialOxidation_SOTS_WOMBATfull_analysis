@@ -175,7 +175,7 @@ This includes comparison of the simulations with SOTS observations and analysis 
 
 The complete WOMBAT-full model experiments and restart files are archived separately on Zenodo:
 
-**Zenodo:** `ADD_ZENODO_DOI_OR_URL`
+**Zenodo:** `https://doi.org/10.5281/zenodo.22242451`
 
 The Zenodo archive contains the 21 final partial-oxidation experiments together with their model configuration, annual output and restart files, WOMBAT-full initial conditions, and model executable.
 
@@ -222,6 +222,6 @@ ADD PAPER CITATION
 Dataset:
 
 ```text
-ADD ZENODO CITATION / DOI
+https://doi.org/10.5281/zenodo.22242451
 ```
 
